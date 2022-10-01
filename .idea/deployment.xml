@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="ubuntun (7f0ec4a0-8e1c-42a4-a322-fab64e6fbb27)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/muduo_study" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/book_study/Chapter01/cmake-build-debug-ubuntun" />
+            <excludedPath local="true" path="$PROJECT_DIR$/book_study/Chapter01/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/book_study/Chapter01/cmake-build-debug-ubuntun" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
